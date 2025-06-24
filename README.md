@@ -14,7 +14,7 @@ It explores the Superstore dataset using Excel, Tableau-style charts (via Python
 📁 Deliverables include:
 - Dataset (Excel)
 - Charts (PNG)
-- Storyboard (PowerPoint)
+- Storyboard (PDF/PowerPoint)
 - Code (Python)
 
 ## 📌 Business Insights:
